@@ -1,0 +1,53 @@
+.blue .containData {
+  height: 170px;
+  width: 30%;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 10px;
+  float: left;
+  background-color: #5964ff;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.blue .imageData {
+  margin: 5%;
+  background-color: white;
+  width: 30%;
+  height: 40%;
+  border-radius: 12px;
+  float: left;
+}
+.blue h6 {
+  color: white;
+  font-weight: 500;
+}
+.blue .iconData {
+  font-size: 2em;
+  padding: 10px;
+  float: right;
+  color: white;
+}
+.blue h5 {
+  color: white;
+  font-weight: 600;
+}
+.blue .spaceData {
+  margin-top: 10%;
+  width: 80%;
+  margin: auto;
+  margin-left: 10%;
+  display: inline-block;
+}
+.blue .bareData {
+  margin-top: 20px;
+  margin: 2px;
+  height: 8px;
+  border-radius: 20px;
+  background-color: white;
+}
+.blue .fillBareData {
+  height: 100%;
+
+  background-color: #64fe2e;
+}
